@@ -1,0 +1,4 @@
+#Thu Oct 22 12:18:56 PKT 2020
+base.0=/Users/apple/Desktop/OBTECH/Affiliate_App/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

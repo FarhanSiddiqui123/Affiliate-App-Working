@@ -1,0 +1,6 @@
+module Pods_Affiliate_App_Affiliate_AppTests {
+  umbrella header "Pods-Affiliate_App-Affiliate_AppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

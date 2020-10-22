@@ -1,0 +1,6 @@
+module Pods_Affiliate_App {
+  umbrella header "Pods-Affiliate_App-umbrella.h"
+
+  export *
+  module * { export * }
+}
