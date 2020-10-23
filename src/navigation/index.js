@@ -2,10 +2,10 @@ import { createSwitchNavigator,createAppContainer, } from "react-navigation";
 import { createStackNavigator } from "react-navigation-stack";
 import { createBottomTabNavigator } from "react-navigation-tabs";
 //import login from "../pages/login";
-import catalog from "../pages/catalog";
-import dashboard from '../pages/dashboard';
-import orders from '../pages/orders';
-import cms from '../pages/cms';
+import catalog from "../pages/catalog/catalog";
+import dashboard from '../pages/dashboard/dashboard';
+import orders from '../pages/orders/orders';
+import cms from '../pages/cms/cms';
 
 /*
 const loginStack = createStackNavigator({
